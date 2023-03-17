@@ -1,0 +1,21 @@
+section {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.carousel-control-prev-icon {
+    background-image: url(/img/2.png);
+}
+.carousel-control-next-icon {
+    background-image: url(/img/3.png);
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 20px;
+}
+.carousel-control-next {
+    right: -35px;
+}
+.carousel-control-prev {
+    left: -35px;
+}
